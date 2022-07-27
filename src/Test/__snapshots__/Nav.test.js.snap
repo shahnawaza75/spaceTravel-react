@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test the navigator Navigation is rendered 1`] = `
+Array [
+  " ",
+  <ul
+    className="nav-items"
+  >
+    <li>
+      <a
+        aria-current={null}
+        href="/rockets"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "blue",
+            "textDecoration": "none",
+          }
+        }
+      >
+        Rockets
+      </a>
+    </li>
+    <li>
+      <a
+        aria-current={null}
+        href="/missions"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "blue",
+            "textDecoration": "none",
+          }
+        }
+      >
+        Missions
+      </a>
+    </li>
+    <li>
+      <a
+        aria-current={null}
+        href="/profile"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "blue",
+            "textDecoration": "none",
+          }
+        }
+      >
+        My Profile
+      </a>
+    </li>
+  </ul>,
+  " ",
+]
+`;

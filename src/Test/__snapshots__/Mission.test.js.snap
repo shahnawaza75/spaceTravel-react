@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test the navigator Navigation is rendered 1`] = `
+<div>
+  <div
+    className="main"
+  >
+    <div
+      className="mission-title"
+    >
+      <h3
+        className="title-mission"
+      >
+        Mission
+      </h3>
+      <h3
+        className="title-desc"
+      >
+        Description
+      </h3>
+      <h3
+        className="title-status"
+      >
+        Status
+      </h3>
+    </div>
+  </div>
+</div>
+`;

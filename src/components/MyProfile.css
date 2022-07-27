@@ -1,0 +1,19 @@
+.main-containers {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  width: 100%;
+  margin: 30px auto 30px;
+  padding-top: 20px;
+
+  /* border-top: 2px solid rgb(201, 193, 193); */
+}
+
+.main-con {
+  width: 40%;
+}
+
+.main-con p {
+  border-top: 1px solid rgb(201, 193, 193);
+  padding: 20px;
+}

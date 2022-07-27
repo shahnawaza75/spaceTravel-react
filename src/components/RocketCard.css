@@ -1,0 +1,23 @@
+.rocket-card {
+  display: flex;
+  gap: 10px;
+  margin: 10px 100px 10px;
+}
+
+.reserved {
+  background-color: rgb(24 162 184);
+  padding: 0 4px;
+  float: left;
+  color: #fff;
+  border-radius: 3px;
+  margin-right: 4px;
+  font-weight: 400;
+}
+
+.descr {
+  text-align: justify;
+}
+
+.para {
+  margin-top: 10px;
+}
